@@ -1,7 +1,7 @@
 Learner: KhineHninAye [Bo-Ku]
 Source: BroCode YouTube Channel [https://youtu.be/-TkoO8Z07hI?si=72Gn6h6AzCaN1YeL]
 Course: C++ Programming [6-hour course]
-Learning Duration: 6 Days (1 hour per day)
+Learning Duration: 9 days
 About the Course
 
 This course covers fundamental and intermediate concepts in C++ programming, including object-oriented programming, memory management, and standard libraries. It’s perfect for both beginners and those looking to strengthen their understanding of C++.
