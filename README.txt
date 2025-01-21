@@ -1,4 +1,4 @@
-Learner: KhineHninAye [Bo-Ku]
+Learner: KhineHninAye [BoKu]
 Source: BroCode YouTube Channel [https://youtu.be/-TkoO8Z07hI?si=72Gn6h6AzCaN1YeL]
 Course: C++ Programming [6-hour course]
 Learning Duration: 9 days
